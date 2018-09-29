@@ -1,0 +1,14 @@
+﻿Сборка начата 20.04.2016 11:57:41.
+     1>Проект "E:\Маргошвил Идрис\C++\lab10\lab10\lab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\lab10.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt lab10.cpp
+         lab10.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Маргошвил Идрис\C++\lab10\Debug\lab10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Маргошвил Идрис\C++\lab10\Debug\lab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Маргошвил Идрис\C++\lab10\Debug\lab10.lib" /MACHINE:X86 Debug\lab10.obj
+         Debug\stdafx.obj
+         lab10.vcxproj -> E:\Маргошвил Идрис\C++\lab10\Debug\lab10.exe
+     1>Сборка проекта "E:\Маргошвил Идрис\C++\lab10\lab10\lab10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.95
